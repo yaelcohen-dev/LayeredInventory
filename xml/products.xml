@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>930</Id>
+    <Name>regular M</Name>
+    <Category>regular</Category>
+    <Price>39</Price>
+    <Amount>3</Amount>
+  </Product>
+  <Product>
+    <Id>940</Id>
+    <Name>wood L</Name>
+    <Category>wood</Category>
+    <Price>15</Price>
+    <Amount>5</Amount>
+  </Product>
+  <Product>
+    <Id>910</Id>
+    <Name>canvas XS</Name>
+    <Category>canvas</Category>
+    <Price>31</Price>
+    <Amount>0</Amount>
+  </Product>
+  <Product>
+    <Id>920</Id>
+    <Name>glass S</Name>
+    <Category>glass</Category>
+    <Price>25.6</Price>
+    <Amount>0</Amount>
+  </Product>
+</ArrayOfProduct>

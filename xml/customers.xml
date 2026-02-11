@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>21374</Id>
+    <Name>Racheli</Name>
+    <Address>Rashbi</Address>
+    <Phone>0556726780</Phone>
+  </Customer>
+  <Customer>
+    <Id>2568</Id>
+    <Name>Sari</Name>
+    <Address>Rambam</Address>
+    <Phone>05567239854</Phone>
+  </Customer>
+  <Customer>
+    <Id>9632</Id>
+    <Name>Neomi</Name>
+    <Address>Maharil</Address>
+    <Phone>0583279654</Phone>
+  </Customer>
+  <Customer>
+    <Id>5</Id>
+    <Name>m</Name>
+    <Address>k</Address>
+    <Phone>555</Phone>
+  </Customer>
+</ArrayOfCustomer>
